@@ -1,7 +1,5 @@
 # clauselab-frameworks
 
-# ClauseLab Framework
-
 ## Overview
 
 The ClauseLab Framework is an open-source project designed to provide a robust and extensible foundation for analyzing, negotiating, and managing legal documents. This framework leverages advanced **Large Language Models (LLMs)**, combined with structured and dynamic prompt engineering, to deliver a wide range of legal document processing capabilities.
